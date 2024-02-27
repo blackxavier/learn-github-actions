@@ -14,3 +14,4 @@ jobs:
       - uses: actions/upload-artifact@v4.3.1
         with:
           name: My-Artifact
+          path: .github/
